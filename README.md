@@ -27,4 +27,6 @@ replacestring.sh "original_text" "new_text_to_replace" "*.php"
 - xargs https://www.gnu.org/software/findutils/
 - sed https://www.gnu.org/software/sed/
 
+# This is GNU Software, please share! 
+
 that's all
