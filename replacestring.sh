@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+# This is GNU Software, please share! 
 # Replace String in files using grep and sed
 # grep -Rl "text_to_find" | xargs sed -i 's/original_text/new_text_replace/g'
 # find . -type f -print0 | xargs -0 sed -i 's/original_text/new_text_replace/g'
